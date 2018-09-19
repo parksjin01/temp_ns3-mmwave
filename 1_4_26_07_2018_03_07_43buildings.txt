@@ -1,0 +1,15 @@
+set object 1 rect from 81.139,24.3805 to 103.797,41.3603 front fs empty 
+set object 2 rect from 52.9488,45.9665 to 86.5843,59.7635 front fs empty 
+set object 3 rect from 141.735,74.6718 to 160.991,83.1901 front fs empty 
+set object 4 rect from 185.617,53.2364 to 212.17,58.198 front fs empty 
+set object 5 rect from 104.061,86.2422 to 105.897,116.997 front fs empty 
+set object 6 rect from 27.8316,90.9639 to 59.6955,104.11 front fs empty 
+set object 7 rect from 161.019,86.8199 to 193.14,109.039 front fs empty 
+set object 8 rect from 147.652,0.235015 to 179.027,20.3373 front fs empty 
+set object 9 rect from 93.1808,55.0282 to 112.825,80.2647 front fs empty 
+set object 10 rect from 70.9209,73.4521 to 87.1919,86.6872 front fs empty 
+set object 11 rect from 75.6184,95.4504 to 81.855,104.147 front fs empty 
+set object 12 rect from 143.672,38.8458 to 170.306,53.1976 front fs empty 
+set object 13 rect from 121.513,96.8817 to 144.426,123.85 front fs empty 
+set object 14 rect from 117.907,22.9052 to 132.684,47.9256 front fs empty 
+set object 15 rect from 5.9009,17.7894 to 13.7708,43.4564 front fs empty 

@@ -1,0 +1,4 @@
+set label "2" at -1,100 left font "Helvetica,8" textcolor rgb "red" front  point pt 4 ps 0.3 lc rgb "red" offset 0,0
+set label "3" at 201,100 left font "Helvetica,8" textcolor rgb "red" front  point pt 4 ps 0.3 lc rgb "red" offset 0,0
+set label "4" at 100,100 left font "Helvetica,8" textcolor rgb "red" front  point pt 4 ps 0.3 lc rgb "red" offset 0,0
+set label "1" at 100,100 left font "Helvetica,8" textcolor rgb "blue" front  point pt 4 ps 0.3 lc rgb "blue" offset 0,0
