@@ -66,7 +66,7 @@ PointToPointEpcHelper::PointToPointEpcHelper ()
   m_x2Ipv4AddressHelper.SetBase ("12.0.0.0", "255.255.255.252");
 
   // we use a /8 net for all UEs
-  m_ueAddressHelper.SetBase ("7.0.0.0", "255.0.0.0");
+  m_ueAddressHelper.SetBase ("8.0.0.0", "255.0.0.0");
   
   // create SgwPgwNode
   m_sgwPgw = CreateObject<Node> ();
